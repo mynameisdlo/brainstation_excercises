@@ -133,18 +133,7 @@ footer {
 	justify-content: space-between;
 }
 
-.footer-left {
-	margin:10px;
-	padding:5px;
-}
-
-.footer-center{
-	margin:10px;
-	padding:5px;
-
-}
-
-.footer-right {
-	margin:10px;
-	padding:5px;
+footer > * {
+	margin: 10px; 
+	padding: 5px;
 }
